@@ -17,25 +17,12 @@
 - AI / LLM / Agent
 - 自动化与脚本
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamdla&show_icons=true&theme=transparent" height="180" alt="pamdla's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamdla&layout=compact&theme=transparent" height="180" alt="pamdla's languages" />
-</p>
-
----
-
 ### 📚 精选项目
 
 | 项目 | 描述 |
 |------|------|
-| [AIVerse](https://pamdla.github.io) | 个人网站，AI 帮我筛选论文 |
-| [OpenClaw](https://github.com/openclaw/openclaw) | AI 助手框架 |
+| [AIVerse](https://pamdla.github.io) | 个人网站，筛选论文 |
 
----
 
 ### 📫 联系
 
