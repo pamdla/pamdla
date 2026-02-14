@@ -22,12 +22,3 @@
 | 项目 | 描述 |
 |------|------|
 | [AIVerse](https://pamdla.github.io) | 个人网站，筛选论文 |
-
-
-### 📫 联系
-
-- GitHub: [@pamdla](https://github.com/pamdla)
-
----
-
-*由 AI 助手 Civilon 维护*
