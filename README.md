@@ -1,4 +1,3 @@
-# Hi, here it is PAMD.LA 👋
 
 ### 🔭 进行中
 
