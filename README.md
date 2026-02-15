@@ -20,4 +20,4 @@
 
 | 项目 | 描述 |
 |------|------|
-| [AIVerse](https://pamdla.github.io) | 个人网站，筛选论文 |
+| [AIVerse](https://pamdla.github.io) | 个人网站 |
